@@ -16,5 +16,4 @@ github 地址：https://github.com/wind-liang/leetcode
 
 知乎开设了专栏，同步更新：[https://zhuanlan.zhihu.com/leetcode1024](https://zhuanlan.zhihu.com/leetcode1024)，关注后可以及时收到更新。
 
-如果觉得对你有帮助，记得给一个 star 哦 ^ ^
 
